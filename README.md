@@ -1,4 +1,4 @@
-![image](https://github.com/parvej4u2/parvej4u2/assets/58842051/a47dc138-9a26-4586-bec4-0b5e201cafb3)<p align="center"><img alt="parvej alam" src="https://www.justgoo.in/wp-content/uploads/2024/02/download-1.jpg" width="300px"></p>
+<p align="center"><img alt="parvej alam" src="https://www.justgoo.in/wp-content/uploads/2024/02/download-1.jpg" width="300px"></p>
 <h1 align="center">Hi 👋, I'm Parvej Alam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
