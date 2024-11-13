@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [www.parvejalam.com](www.parvejalam.com)
+- 👨‍💻 All of my projects are available at [https://sarkariresultapp.com](Sarkari Result App) & [https://www.justgoo.in/](JustGoo.IN)
 
 - 💬 Ask me about **react, java**
 
